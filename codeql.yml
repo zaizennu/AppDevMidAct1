@@ -1,3 +1,0 @@
-language: python
-queries:
-  - path/to/your/codeql/queries
